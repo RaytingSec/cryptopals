@@ -97,3 +97,4 @@ Since the prompt didn't specify which case the key was, I tried both capitol sta
 I notice that while capitol produced the correct string, lower case with produce inverted case. Google searching indicates it's a known trick to xor the byte `\x20`, or the space character, to invert case.
 
 ### 4. Detect single byte XOR
+
